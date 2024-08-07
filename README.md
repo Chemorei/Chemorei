@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm thrilled you're here. Let me tell you a bit ab
 - 🌱 I’m currently learning about cybersecurity, human rights law, privacy, and digital technologies.
 - 👯 I’m looking to collaborate on projects related to legal tech and digital privacy.
 - 🤔 I’m looking for help with developing a robust ownership verification system for my app.
-- 💬 Ask me about Kenya's criminal legal system, the rule of law, and accessibility to justice.
 - 📫 How to reach me: [Email](mailto:chemoreidaniel@gmail.com)
 - ⚡ Fun fact: I'm a better baller than you!
 

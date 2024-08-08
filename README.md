@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm thrilled you're here. Let me tell you a bit ab
 
 ### 🚀 My Current Project
 
-- **App for Student Paper Sharing:** A platform where students can share their academic papers and receive credits.
+- **App for Student Paper Sharing:** A platform where students can share their academic papers and receive credits. It will also be a forum for legal discussions.
 
 ### 💡 What I Love
 
@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm thrilled you're here. Let me tell you a bit ab
 ### 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemorei&layout=compact&theme=radical)
+
 ### 🖥️ Software Primarily Relied Upon
 
 - Jetbrains Toolbox
@@ -33,8 +34,8 @@ Welcome to my GitHub profile! I'm thrilled you're here. Let me tell you a bit ab
 
 ### 🖼️ Other Designs
 
-- [Guide on registration of VTABU system in the Kenya National Library Service](https://www.canva.com/design/DAGGfkPqZRI/N9fPRzQpXw8en2xWLLDIeg/edit)
-- [Guide on how to access resources upon registration](https://www.canva.com/design/DAGGgRXd71A/AMRvzcXcd0zuP6Z23EQKiw/edit)
+- [Guide on registration of VTABU system in the Kenya National Library Service](https://www.canva.com/design/DAGGfkPqZRI/N9fPRzQpXw8en2xWLLDIeg/edit?utm_content=DAGGfkPqZRI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Guide on how to access resources in the Kenya National Library Service upon registration](https://www.canva.com/design/DAGGgRXd71A/AMRvzcXcd0zuP6Z23EQKiw/edit)
 
 ### 📬 Let's Connect!
 

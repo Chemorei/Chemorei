@@ -28,6 +28,14 @@ Welcome to my GitHub profile! I'm thrilled you're here. Let me tell you a bit ab
 
 Feel free to reach out if you want to chat about legal tech, privacy, or any exciting project you're working on. I'm always open to new ideas and collaborations!
 
+### 🖥️ Software Primarily Relied Upon
+
+- Jetbrains Toolbox
+- Android studio (Koala version)
+- Ubuntu
+- Visual Studio Code
+- Microsoft Packages
+
 ### 🖼️ Other Designs
 
 - [Guide on registration of VTABU system in the Kenya National Library Service](https://www.canva.com/design/DAGGfkPqZRI/N9fPRzQpXw8en2xWLLDIeg/edit)

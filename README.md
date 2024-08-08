@@ -23,11 +23,6 @@ Welcome to my GitHub profile! I'm thrilled you're here. Let me tell you a bit ab
 ### 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemorei&layout=compact&theme=radical)
-
-### 📬 Let's Connect!
-
-Feel free to reach out if you want to chat about legal tech, privacy, or any exciting project you're working on. I'm always open to new ideas and collaborations!
-
 ### 🖥️ Software Primarily Relied Upon
 
 - Jetbrains Toolbox
@@ -40,6 +35,12 @@ Feel free to reach out if you want to chat about legal tech, privacy, or any exc
 
 - [Guide on registration of VTABU system in the Kenya National Library Service](https://www.canva.com/design/DAGGfkPqZRI/N9fPRzQpXw8en2xWLLDIeg/edit)
 - [Guide on how to access resources upon registration](https://www.canva.com/design/DAGGgRXd71A/AMRvzcXcd0zuP6Z23EQKiw/edit)
+
+### 📬 Let's Connect!
+
+Feel free to reach out if you want to chat about legal tech, privacy, or any exciting project you're working on. I'm always open to new ideas and collaborations!
+
+
 
 ---
 
